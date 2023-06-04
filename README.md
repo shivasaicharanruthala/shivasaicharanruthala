@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+🔭 I’m pursing Master's in Software Engineering Systems from Northeastern University, Boston.<br>🌱 I’m interested in roles related to Software Developer Engineer and Data Engineering.<br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=piyush-an&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
